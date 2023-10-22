@@ -10,4 +10,7 @@ git add . / git add abc.txt
 
 git commit -m "This is my first commit"
 ```
-
+### Sync changes from git :
+```
+git pull
+```
